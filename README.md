@@ -1,23 +1,33 @@
-<<<<<<< HEAD
 # Vishwarekha Ayurveda & Panchakarma Centre
 
-Website for clinic information, treatments, herbal products, branch locations, and WhatsApp appointment/product enquiries.
+A website for Vishwarekha Ayurveda & Panchakarma Centre, providing information about clinic services, Ayurvedic treatments, herbal products, branch locations, and appointment enquiries.
+
+## Features
+
+* Clinic and treatment information
+* Herbal product showcase
+* Branch location details
+* WhatsApp appointment and product enquiries
 
 ## Development
 
-Requirements: Node.js and npm.
+**Requirements:** Node.js and npm.
 
-```sh
+Install dependencies:
+
+```bash
 npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
 ```
 
-Build and test:
+## Build and Test
 
-```sh
+```bash
 npm run build
 npm test
 ```
-=======
-# shrivishwarekhaayurveda
->>>>>>> 2c14d71454804285975926daeb81196a41bb805c
