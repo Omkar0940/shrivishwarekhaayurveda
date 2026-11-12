@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vishwarekha Ayurveda & Panchakarma Centre
 
 Website for clinic information, treatments, herbal products, branch locations, and WhatsApp appointment/product enquiries.
@@ -17,3 +18,6 @@ Build and test:
 npm run build
 npm test
 ```
+=======
+# shrivishwarekhaayurveda
+>>>>>>> 2c14d71454804285975926daeb81196a41bb805c
